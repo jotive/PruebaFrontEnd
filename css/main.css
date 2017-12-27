@@ -1,0 +1,85 @@
+/* Hoja de Estilos principal
+
+Autor: Jose Tirado Verberl <Jotive@gmail.com>
+ */
+
+.bkgprimary{
+  background-color: rgba(99, 112, 66, 1.0);
+  color: white
+}
+
+ .colorpri{
+  color: rgba(99, 112, 66, 1.0);
+ }
+
+.enlace-banda{
+  color: rgba(99, 112, 66, 1.0);
+  weight: bolder;
+  font-weight: bolder;
+}
+
+.direccion p{
+  font-size: .8em;
+  font-family: 'Lato', sans-serif;
+  color: rgba(0,0,0,0.8);
+}
+
+.item-menu{
+  color: rgba(99, 112, 66, 1.0);
+  font-family: 'Slabo 27px', serif;
+}
+
+.item-menu:hover{
+  color: rgba(99, 112, 66, 1.0);
+}
+
+.fuente-lato{
+  font-family: 'Lato', sans-serif;
+}
+
+.fuente-slabo{
+  font-family: 'Slabo 27px', serif;
+}
+
+.servicios{
+  padding: 4em;
+}
+
+.servicio{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.servicio img{
+  height: 50%;
+  width: 50%;
+}
+
+.servicio p{
+  font-size: .8em;
+}
+
+.servicio h3{
+  font-size: 1.5em;
+  color: rgba(99, 112, 66, 1.0);
+  font-family: 'Lato', sans-serif;
+  font-weight: bolder;
+}
+
+.servicio a{
+  color: rgba(99, 112, 66, 1.0);
+  font-family: 'Lato', sans-serif;
+  font-weight: bolder;
+  font-size: .8em;
+}
+
+header{
+  height: 130px;
+}
+
+footer{
+
+}
